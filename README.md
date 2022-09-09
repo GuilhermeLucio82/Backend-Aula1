@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Este sistema é o Backend montado para a aula sobre NestJS. Estou aprendendo Typescript.
+
 ## Installation
 
 ```bash
